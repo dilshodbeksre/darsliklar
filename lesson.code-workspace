@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../coffe/coffe"
+		},
+		{
+			"path": "../../index.file/lesson8"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "coffe"
+	}
+}
